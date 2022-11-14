@@ -1,0 +1,4 @@
+i was created automatically
+C:\ProgramData\Jenkins\.jenkins\workspace\Test_2
+@{WindowsCurrentVersion=6.3; WindowsVersion=2009; BiosBIOSVersion=System.String[]; BiosEmbeddedControllerMajorVersion=255; BiosEmbeddedControllerMinorVersion=255; BiosSMBIOSBIOSVersion=E16W2IMS.105; BiosSMBIOSMajorVersion=3; BiosSMBIOSMinorVersion=2; BiosSystemBiosMajorVersion=1; BiosSystemBiosMinorVersion=5; BiosVersion=MSI_NB - 1072009; OsVersion=10.0.19044; OsCSDVersion=; OsServicePackMajorVersion=0; OsServicePackMinorVersion=0}
+11/14/2022 5:42:04 PM
